@@ -7,12 +7,12 @@ import Link from './components/Link'
 import { useState } from 'react';
 
 function App() {
-  const [name, setName] = useState("");
-  const [password, setPassword] = useState("");
-  let yup = require('yup');
+  // const [name, setName] = useState("");
+  // const [password, setPassword] = useState("");
+  // let yup = require('yup');
 
-  name: yup.string().required();
-  password: yup.string().required();
+  // name: yup.string().required();
+  // password: yup.string().required();
 
 
   return (
